@@ -243,6 +243,11 @@ a:hover, a:focus, a:active {
     margin-left: 18px !important;
   }
   
+  .fa-link {
+    position: absolute;
+    margin-top: -13px;
+  }
+  
   .fa-ul li {
     text-align: center;
   }
